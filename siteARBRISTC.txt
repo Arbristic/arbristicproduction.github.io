@@ -1,0 +1,12 @@
+<HTML>
+<HEAD>
+<TITLE>Abristic production</TITLE>
+</HEAD>
+<BODY>
+<P>Etes vous a la recherche des jeunes pouces de dattiers; pour pamplemouniers;
+pour citronniers; pour madarinniers?...Alors bienvenue dans votre maison</P>
+<IMG src=log.jpg>
+<IMG src=mood.jpg>
+<P>Passez vos commandes</P>
+<A href="mailto:email@sdjl2afiliate.com?">veillez passr vos commandes et pour plus d'informations</A>
+</BODY></HTML>
